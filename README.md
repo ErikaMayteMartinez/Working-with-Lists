@@ -90,6 +90,6 @@ print("Sizzler offers the following options in their buffet:")
 for sizzler in sizzlers:
     print(sizzler)
 sizzlers = ('salad', 'soup', 'rotisserie chicken', 'beans', 'ice cream')
-print("However, Sizzler changed their main course options in thier buffet:")
+print("However, Sizzler changed their main course options in their buffet:")
 for sizzler in sizzlers:
     print(sizzler)
